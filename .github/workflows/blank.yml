@@ -22,8 +22,52 @@ jobs:
           47586 
           47586
           47586
-          
-          
+   # Random
+   1154
+   1332
+   6753
+   3553
+   7543
+   1345
+   2456
+   3566
+   3455
+   3455
+   3355
+   3445
+   4455
+   4455
+   7777
+   8876
+   6543
+   4556
+   3465
+   5676
+   6788
+   7546
+   5667
+Fastboot.exe
+fastboot get devices id
+start
+ if devices support then star
+  else pause
+add devices 
+ 47586
+ # Source 
+***************************************************************************
+                IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+                           FAKE DEVICES
+                IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+***************************************************************************
+ dang doc thong tin thiet bi
+ thay doi kich thuong phan vung dong
+ khoi dong emmc fastboot oem cua thiet bi
+ tien trinh khoi dong rep, rpm, system cus duoc thiet lap
+ ket noi sever https://github.com/toan704/Cus/pulls
+ get source check devices
+ Ma so xac thuc: 47586
+ BAT DAU 
+
           
           
           
